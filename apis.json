@@ -1,0 +1,84 @@
+{
+    "name": "Wickr",
+    "description": "Smart teams and enterprises choose Wickr, the most secure, private, and compliance-ready collaboration platform trusted to protect your most critical communications.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19959-wickr.jpg",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/wickr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Wickr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19959-wickr.jpg",
+            "humanURL": "https:\/\/wickr.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wickr-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wickr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/wickr.com\/about-us\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wickr"
+        },
+        {
+            "type": "Email",
+            "url": "press@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "partners@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "gdpr@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@wickr.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@wickr.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mywickr"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/wickr.com\/"
+        }
+    ]
+}
